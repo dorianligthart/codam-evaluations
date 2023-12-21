@@ -1,0 +1,139 @@
+Feedbacks dligthar made
+
+
+dligthar evaluated yitoh's group scheduled on May 12, 2023 14:15
+FdF ok
+120 %
+i've looked at the code, couldn't see anything wrong with it. at first glance everything looks fine. Since this project is not about parsing maps, providing invalid maps or maps that break the program is not faulty. And since I haven't coded with MLX yet, I didn't see how to break it. Good project structure, "i" and "j" are bad variable names.
+4 / 5
+He checked the code thoroughly and sparked a discussion about possible parsing error related to the invalid maps. I'm sorry for being in a rush at the end but thank you for your time!
+
+
+dligthar evaluated sjeddi's group-1 scheduled on May 10, 2023 14:45
+get_next_line outstanding_project
+125 %
+well structured steps. Malloc fail checks where needed, easy to read. Really nice how you can return (free(a), free(b), NULL); I didn't know about that. Outstanding project.
+5 / 5
+Thank you for the enthusiastic evaluation :D
+
+
+dligthar evaluated jmetzger's group scheduled on April 27, 2023 15:15
+push_swap outstanding_project
+125 %
+without the online visualizer it would be pretty big to evaluate so for someone that barely has looked at push_swap. it really helped. the evaluation went great, the program succeeded every test I did. I hope you'll pass. Keep up the good work! :D
+5 / 5
+Thank you for the eval. And being interested in my code. :)
+
+
+dligthar feedbacked Bocal Stand-up on March 27, 2023 20:24
+4 / 5
+nice bocal
+
+
+dligthar feedbacked [2022] Events at Codam on October 04, 2022 13:23
+3 / 5
+it was really enjoyable! but time it better next time? :0
+
+
+dligthar feedbacked [2022] First Day Presentation on October 04, 2022 13:21
+4 / 5
+good thing there was a break :) I found the second part a bit too long but I felt like it couldn't be sped up without losing information so it was good.
+
+
+dligthar evaluated svan-es's group-1 scheduled on July 28, 2022 23:30
+C Piscine C 06 ok
+100 %
+great code, I find ex03 too long but it worked nevertheless and I hope you will pass moulinette without mistake. nice person
+5 / 5
+nice and thorough evaluation, good luck tomorrow! :D
+
+
+dligthar evaluated sstoop's group scheduled on July 28, 2022 23:00
+C Piscine C 05 ok
+60 %
+nice code
+5 / 5
+very friendly, wanted a good explanation
+
+
+dligthar evaluated ial-azha's group-1 scheduled on July 28, 2022 22:30
+C Piscine C 06 ok
+70 %
+sad for ex00, I feel bad for u
+5 / 5
+Thanks for the eval
+
+
+dligthar evaluated vfilipet's group scheduled on July 27, 2022 23:15
+C Piscine C 04 ok
+50 %
+good code! :)
+5 / 5
+Very nice evaluation, very friendly! :)
+
+
+
+
+dligthar evaluated khau's group scheduled on July 26, 2022 18:45
+C Piscine C 03 ok
+50 %
+ex04, tiny mistake with null character in *to_find. I love how compact the code is, and might copy some things from this. Good job!
+4 / 5
+Was very thorough in checking and testing, asked a lot of questions and helped me catch a mistake of mine. Thank you! :)
+
+
+dligthar evaluated jsmit's group-1 scheduled on July 26, 2022 18:15
+C Piscine C 00 ok
+45 %
+small mistakes at ex01 and ex03. Apart from that it was good code especially ex05.
+4 / 5
+Thorough evaluator.
+
+
+dligthar evaluated aconvent's group scheduled on July 26, 2022 17:45
+C Piscine C 07 ok
+60 %
+the code looked really good and I am amazed by the malloc usage because I haven't used malloc a lot yet.
+5 / 5
+GOOD LUCK with the few days left and the LAST exam
+
+
+dligthar evaluated meaghaza's group-1 scheduled on July 22, 2022 01:45
+C Piscine C 02 ok
+85 %
+good code, enjoyed the view of the code and the functions. really nice and nice person to talk with. funny :)
+5 / 5
+Cool as hell, funny as eddy Murphy, polite, friendly, …)
+
+
+dligthar evaluated meaghaza's group-3 scheduled on July 20, 2022 01:45
+C Piscine C 00 ok
+100 %
+funny guy, great laugh, nice code and good vibes
+5 / 5
+het is wel gezellig met deze gozer. Koele kikker. :)
+
+
+dligthar evaluated ial-azha's group scheduled on July 20, 2022 01:15
+C Piscine C 02 ok
+85 %
+mad man did almost all exercises. i think he learned a lot from this and the code looks really good.
+5 / 5
+Very good evaluation. He asked me questions about my code which i liked answering. Very nice guy :)
+
+
+dligthar evaluated gzijlman's group-1 scheduled on July 20, 2022 00:45
+C Piscine C 02 ok
+50 %
+Really nice work, small mistake in ex06. :'(
+5 / 5
+good evalution, he didnt do c02 yet so i expained my code to him
+
+
+dligthar evaluated cavieira's group-2 scheduled on July 17, 2022 09:15
+C Piscine C 00 ok
+0 %
+Good functional programming, but moulinette wants it precise and there was a small mistake where ex00 didn't get pushed.
+5 / 5
+Nice tips
+
